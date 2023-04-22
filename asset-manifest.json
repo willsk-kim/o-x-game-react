@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/o-x-game-react/static/css/main.22a96d02.css",
+    "main.js": "/o-x-game-react/static/js/main.e4ef15dc.js",
+    "static/js/787.b66e7712.chunk.js": "/o-x-game-react/static/js/787.b66e7712.chunk.js",
+    "index.html": "/o-x-game-react/index.html",
+    "main.22a96d02.css.map": "/o-x-game-react/static/css/main.22a96d02.css.map",
+    "main.e4ef15dc.js.map": "/o-x-game-react/static/js/main.e4ef15dc.js.map",
+    "787.b66e7712.chunk.js.map": "/o-x-game-react/static/js/787.b66e7712.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22a96d02.css",
+    "static/js/main.e4ef15dc.js"
+  ]
+}
